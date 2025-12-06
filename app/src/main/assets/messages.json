@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "senderId": 1001,
+    "nickname": "系统通知",
+    "avatarUrl": null,
+    "content": "欢迎来到抖音简版消息中心",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719750000000,
+    "isRead": false
+  },
+  {
+    "id": 2,
+    "senderId": 2001,
+    "nickname": "小明",
+    "avatarUrl": null,
+    "content": "今晚有空一起开黑吗？",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719751800000,
+    "isRead": false
+  },
+  {
+    "id": 3,
+    "senderId": 2002,
+    "nickname": "小红",
+    "avatarUrl": null,
+    "content": "今天记得打卡签到哦",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719753600000,
+    "isRead": false
+  },
+  {
+    "id": 4,
+    "senderId": 2003,
+    "nickname": "小刚",
+    "avatarUrl": null,
+    "content": "你有一条新的评论回复",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719755400000,
+    "isRead": false
+  },
+  {
+    "id": 5,
+    "senderId": 2004,
+    "nickname": "小李",
+    "avatarUrl": null,
+    "content": "连续登录可领取奖励，别错过啦～",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719757200000,
+    "isRead": false
+  },
+  {
+    "id": 6,
+    "senderId": 2005,
+    "nickname": "小王",
+    "avatarUrl": null,
+    "content": "好友给你点赞了，快去看看",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719759000000,
+    "isRead": false
+  },
+  {
+    "id": 7,
+    "senderId": 2006,
+    "nickname": "小赵",
+    "avatarUrl": null,
+    "content": "你关注的主播正在直播中",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719760800000,
+    "isRead": false
+  },
+  {
+    "id": 8,
+    "senderId": 2007,
+    "nickname": "小陈",
+    "avatarUrl": null,
+    "content": "系统检测到你有未读消息",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719762600000,
+    "isRead": false
+  },
+  {
+    "id": 9,
+    "senderId": 2008,
+    "nickname": "小刘",
+    "avatarUrl": null,
+    "content": "你的账号安全提醒",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719764400000,
+    "isRead": false
+  },
+  {
+    "id": 10,
+    "senderId": 2009,
+    "nickname": "小张",
+    "avatarUrl": null,
+    "content": "活动即将结束，最后冲刺！",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719766200000,
+    "isRead": false
+  },
+  {
+    "id": 11,
+    "senderId": 1001,
+    "nickname": "系统通知",
+    "avatarUrl": null,
+    "content": "欢迎来到抖音简版消息中心",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719768000000,
+    "isRead": false
+  },
+  {
+    "id": 12,
+    "senderId": 2001,
+    "nickname": "小明",
+    "avatarUrl": null,
+    "content": "今晚有空一起开黑吗？",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719769800000,
+    "isRead": false
+  },
+  {
+    "id": 13,
+    "senderId": 2002,
+    "nickname": "小红",
+    "avatarUrl": null,
+    "content": "今天记得打卡签到哦",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719771600000,
+    "isRead": false
+  },
+  {
+    "id": 14,
+    "senderId": 2003,
+    "nickname": "小刚",
+    "avatarUrl": null,
+    "content": "你有一条新的评论回复",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719773400000,
+    "isRead": false
+  },
+  {
+    "id": 15,
+    "senderId": 2004,
+    "nickname": "小李",
+    "avatarUrl": null,
+    "content": "连续登录可领取奖励，别错过啦～",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719775200000,
+    "isRead": false
+  },
+  {
+    "id": 16,
+    "senderId": 2005,
+    "nickname": "小王",
+    "avatarUrl": null,
+    "content": "好友给你点赞了，快去看看",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719777000000,
+    "isRead": false
+  },
+  {
+    "id": 17,
+    "senderId": 2006,
+    "nickname": "小赵",
+    "avatarUrl": null,
+    "content": "你关注的主播正在直播中",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719778800000,
+    "isRead": false
+  },
+  {
+    "id": 18,
+    "senderId": 2007,
+    "nickname": "小陈",
+    "avatarUrl": null,
+    "content": "系统检测到你有未读消息",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719780600000,
+    "isRead": false
+  },
+  {
+    "id": 19,
+    "senderId": 2008,
+    "nickname": "小刘",
+    "avatarUrl": null,
+    "content": "你的账号安全提醒",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719782400000,
+    "isRead": false
+  },
+  {
+    "id": 20,
+    "senderId": 2009,
+    "nickname": "小张",
+    "avatarUrl": null,
+    "content": "活动即将结束，最后冲刺！",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719784200000,
+    "isRead": false
+  },
+  {
+    "id": 21,
+    "senderId": 1001,
+    "nickname": "系统通知",
+    "avatarUrl": null,
+    "content": "欢迎来到抖音简版消息中心",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719786000000,
+    "isRead": false
+  },
+  {
+    "id": 22,
+    "senderId": 2001,
+    "nickname": "小明",
+    "avatarUrl": null,
+    "content": "今晚有空一起开黑吗？",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719787800000,
+    "isRead": false
+  },
+  {
+    "id": 23,
+    "senderId": 2002,
+    "nickname": "小红",
+    "avatarUrl": null,
+    "content": "今天记得打卡签到哦",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719789600000,
+    "isRead": false
+  },
+  {
+    "id": 24,
+    "senderId": 2003,
+    "nickname": "小刚",
+    "avatarUrl": null,
+    "content": "你有一条新的评论回复",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719791400000,
+    "isRead": false
+  },
+  {
+    "id": 25,
+    "senderId": 2004,
+    "nickname": "小李",
+    "avatarUrl": null,
+    "content": "连续登录可领取奖励，别错过啦～",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719793200000,
+    "isRead": false
+  },
+  {
+    "id": 26,
+    "senderId": 2005,
+    "nickname": "小王",
+    "avatarUrl": null,
+    "content": "好友给你点赞了，快去看看",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719795000000,
+    "isRead": false
+  },
+  {
+    "id": 27,
+    "senderId": 2006,
+    "nickname": "小赵",
+    "avatarUrl": null,
+    "content": "你关注的主播正在直播中",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719796800000,
+    "isRead": false
+  },
+  {
+    "id": 28,
+    "senderId": 2007,
+    "nickname": "小陈",
+    "avatarUrl": null,
+    "content": "系统检测到你有未读消息",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719798600000,
+    "isRead": false
+  },
+  {
+    "id": 29,
+    "senderId": 2008,
+    "nickname": "小刘",
+    "avatarUrl": null,
+    "content": "你的账号安全提醒",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719800400000,
+    "isRead": false
+  },
+  {
+    "id": 30,
+    "senderId": 2009,
+    "nickname": "小张",
+    "avatarUrl": null,
+    "content": "活动即将结束，最后冲刺！",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719802200000,
+    "isRead": false
+  },
+  {
+    "id": 31,
+    "senderId": 1001,
+    "nickname": "系统通知",
+    "avatarUrl": null,
+    "content": "欢迎来到抖音简版消息中心",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719804000000,
+    "isRead": false
+  },
+  {
+    "id": 32,
+    "senderId": 2001,
+    "nickname": "小明",
+    "avatarUrl": null,
+    "content": "今晚有空一起开黑吗？",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719805800000,
+    "isRead": false
+  },
+  {
+    "id": 33,
+    "senderId": 2002,
+    "nickname": "小红",
+    "avatarUrl": null,
+    "content": "今天记得打卡签到哦",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719807600000,
+    "isRead": false
+  },
+  {
+    "id": 34,
+    "senderId": 2003,
+    "nickname": "小刚",
+    "avatarUrl": null,
+    "content": "你有一条新的评论回复",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719809400000,
+    "isRead": false
+  },
+  {
+    "id": 35,
+    "senderId": 2004,
+    "nickname": "小李",
+    "avatarUrl": null,
+    "content": "连续登录可领取奖励，别错过啦～",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719811200000,
+    "isRead": false
+  },
+  {
+    "id": 36,
+    "senderId": 2005,
+    "nickname": "小王",
+    "avatarUrl": null,
+    "content": "好友给你点赞了，快去看看",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719813000000,
+    "isRead": false
+  },
+  {
+    "id": 37,
+    "senderId": 2006,
+    "nickname": "小赵",
+    "avatarUrl": null,
+    "content": "你关注的主播正在直播中",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719814800000,
+    "isRead": false
+  },
+  {
+    "id": 38,
+    "senderId": 2007,
+    "nickname": "小陈",
+    "avatarUrl": null,
+    "content": "系统检测到你有未读消息",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719816600000,
+    "isRead": false
+  },
+  {
+    "id": 39,
+    "senderId": 2008,
+    "nickname": "小刘",
+    "avatarUrl": null,
+    "content": "你的账号安全提醒",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719818400000,
+    "isRead": false
+  },
+  {
+    "id": 40,
+    "senderId": 2009,
+    "nickname": "小张",
+    "avatarUrl": null,
+    "content": "活动即将结束，最后冲刺！",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719820200000,
+    "isRead": false
+  },
+  {
+    "id": 41,
+    "senderId": 1001,
+    "nickname": "系统通知",
+    "avatarUrl": null,
+    "content": "欢迎来到抖音简版消息中心",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719822000000,
+    "isRead": true
+  },
+  {
+    "id": 42,
+    "senderId": 2001,
+    "nickname": "小明",
+    "avatarUrl": null,
+    "content": "今晚有空一起开黑吗？",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719823800000,
+    "isRead": true
+  },
+  {
+    "id": 43,
+    "senderId": 2002,
+    "nickname": "小红",
+    "avatarUrl": null,
+    "content": "今天记得打卡签到哦",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719825600000,
+    "isRead": true
+  },
+  {
+    "id": 44,
+    "senderId": 2003,
+    "nickname": "小刚",
+    "avatarUrl": null,
+    "content": "你有一条新的评论回复",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719827400000,
+    "isRead": true
+  },
+  {
+    "id": 45,
+    "senderId": 2004,
+    "nickname": "小李",
+    "avatarUrl": null,
+    "content": "连续登录可领取奖励，别错过啦～",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719829200000,
+    "isRead": true
+  },
+  {
+    "id": 46,
+    "senderId": 2005,
+    "nickname": "小王",
+    "avatarUrl": null,
+    "content": "好友给你点赞了，快去看看",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719831000000,
+    "isRead": true
+  },
+  {
+    "id": 47,
+    "senderId": 2006,
+    "nickname": "小赵",
+    "avatarUrl": null,
+    "content": "你关注的主播正在直播中",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719832800000,
+    "isRead": true
+  },
+  {
+    "id": 48,
+    "senderId": 2007,
+    "nickname": "小陈",
+    "avatarUrl": null,
+    "content": "系统检测到你有未读消息",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719834600000,
+    "isRead": true
+  },
+  {
+    "id": 49,
+    "senderId": 2008,
+    "nickname": "小刘",
+    "avatarUrl": null,
+    "content": "你的账号安全提醒",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719836400000,
+    "isRead": true
+  },
+  {
+    "id": 50,
+    "senderId": 2009,
+    "nickname": "小张",
+    "avatarUrl": null,
+    "content": "活动即将结束，最后冲刺！",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719838200000,
+    "isRead": true
+  },
+  {
+    "id": 51,
+    "senderId": 1001,
+    "nickname": "系统通知",
+    "avatarUrl": null,
+    "content": "欢迎来到抖音简版消息中心",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719840000000,
+    "isRead": true
+  },
+  {
+    "id": 52,
+    "senderId": 2001,
+    "nickname": "小明",
+    "avatarUrl": null,
+    "content": "今晚有空一起开黑吗？",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719841800000,
+    "isRead": true
+  },
+  {
+    "id": 53,
+    "senderId": 2002,
+    "nickname": "小红",
+    "avatarUrl": null,
+    "content": "今天记得打卡签到哦",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719843600000,
+    "isRead": true
+  },
+  {
+    "id": 54,
+    "senderId": 2003,
+    "nickname": "小刚",
+    "avatarUrl": null,
+    "content": "你有一条新的评论回复",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719845400000,
+    "isRead": true
+  },
+  {
+    "id": 55,
+    "senderId": 2004,
+    "nickname": "小李",
+    "avatarUrl": null,
+    "content": "连续登录可领取奖励，别错过啦～",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719847200000,
+    "isRead": true
+  },
+  {
+    "id": 56,
+    "senderId": 2005,
+    "nickname": "小王",
+    "avatarUrl": null,
+    "content": "好友给你点赞了，快去看看",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719849000000,
+    "isRead": true
+  },
+  {
+    "id": 57,
+    "senderId": 2006,
+    "nickname": "小赵",
+    "avatarUrl": null,
+    "content": "你关注的主播正在直播中",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719850800000,
+    "isRead": true
+  },
+  {
+    "id": 58,
+    "senderId": 2007,
+    "nickname": "小陈",
+    "avatarUrl": null,
+    "content": "系统检测到你有未读消息",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719852600000,
+    "isRead": true
+  },
+  {
+    "id": 59,
+    "senderId": 2008,
+    "nickname": "小刘",
+    "avatarUrl": null,
+    "content": "你的账号安全提醒",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719854400000,
+    "isRead": true
+  },
+  {
+    "id": 60,
+    "senderId": 2009,
+    "nickname": "小张",
+    "avatarUrl": null,
+    "content": "活动即将结束，最后冲刺！",
+    "type": "SYSTEM_TEXT",
+    "createdAt": 1719856200000,
+    "isRead": true
+  }
+]
