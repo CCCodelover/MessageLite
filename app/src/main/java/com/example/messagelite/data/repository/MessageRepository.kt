@@ -18,7 +18,6 @@ class MessageRepository(
     suspend fun refreshMessages(): Result<Unit> {
         return withContext(Dispatchers.IO) {
             runCatching {
-                messageDao.clearAll()
                 var page = 1
                 while (true) {
                     val list = remote.fetchMessages(page = page, pageSize = pageSize)
