@@ -18,12 +18,18 @@ class MessageRepository(
     suspend fun refreshMessages(): Result<Unit> {
         return withContext(Dispatchers.IO) {
             runCatching {
+                val allMessages = mutableListOf<Message>()
                 var page = 1
                 while (true) {
                     val list = remote.fetchMessages(page = page, pageSize = pageSize)
                     if (list.isEmpty()) break
-                    messageDao.insertMessages(list.map { it.toEntity() })
+                    allMessages.addAll(list)
+                    if (list.size < pageSize) break
                     page++
+                }
+                messageDao.clearAll()
+                if (allMessages.isNotEmpty()) {
+                    messageDao.insertMessages(allMessages.map { it.toEntity() })
                 }
             }
         }
